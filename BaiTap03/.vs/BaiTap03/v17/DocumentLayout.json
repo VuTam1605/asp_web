@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|c:\\users\\tamvu\\documents\\github\\asp_web\\baitap03\\baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B40DB76-1DF0-46E9-963D-C5BC8E691B17}|BaiTap03\\BaiTap03.csproj|solutionrelative:baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T09:15:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTap03\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTap03\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:14:11.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTap03\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTap03\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T09:13:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap03\\Program.cs",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Program.cs",
+              "RelativeToolTip": "BaiTap03\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:11:07.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTap03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T09:08:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap03\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Views\\Nhom\\Index.cshtml",
+              "RelativeToolTip": "BaiTap03\\Views\\Nhom\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T09:08:00.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "BaiTap03\\Controllers\\NhomController.cs",
+              "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "BaiTap03\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:07:37.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
