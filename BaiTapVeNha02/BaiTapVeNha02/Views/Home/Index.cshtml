@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Bảng Cửu Chương";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bảng Cửu Chương</h1>
+    <h2 class="display-8" style="color : red">Vũ Thành Tâm</h2>
+
+    @for (int i = 1; i <= 9; i++)
+    {
+        <table class="table table-bordered" style="margin-bottom: 30px;">
+            <thead>
+                <tr>
+                    <th colspan="2">Bảng cửu chương @i</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int j = 1; j <= 10; j++)
+                {
+                    <tr>
+                        <td>@i x @j</td>
+                        <td>@(i * j)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
