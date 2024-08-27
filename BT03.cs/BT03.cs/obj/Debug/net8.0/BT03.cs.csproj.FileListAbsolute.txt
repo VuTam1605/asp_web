@@ -1,0 +1,8 @@
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.csproj.AssemblyReference.cache
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.AssemblyInfoInputs.cache
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.AssemblyInfo.cs
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.csproj.CoreCompileInputs.cache
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.MvcApplicationPartsAssemblyInfo.cache
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.RazorAssemblyInfo.cache
+D:\D\admin\Lap trinh wed\BT03.cs\BT03.cs\obj\Debug\net8.0\BT03.cs.RazorAssemblyInfo.cs
