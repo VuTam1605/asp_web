@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bt05\\bt05\\.gitignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1049D8FC-8DD7-4B69-953E-E8A55153F6AB}|BT05\\BT05.csproj|solutionrelative:bt05\\.gitignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Views\\TheLoai\\Index2.cshtml",
+              "RelativeDocumentMoniker": "BT05\\Views\\TheLoai\\Index2.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Views\\TheLoai\\Index2.cshtml",
+              "RelativeToolTip": "BT05\\Views\\TheLoai\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:29:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiViewModel.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Models\\TheLoaiViewModel.cs",
+              "RelativeDocumentMoniker": "BT05\\Models\\TheLoaiViewModel.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Models\\TheLoaiViewModel.cs",
+              "RelativeToolTip": "BT05\\Models\\TheLoaiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:24:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT05\\TheLoai\\Index.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "BT05\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:18:25.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BT05\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BT05\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:14:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT05\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "BT05\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:28:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\.gitignore.cs",
+              "RelativeDocumentMoniker": "BT05\\.gitignore.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BT05\\BT05\\.gitignore.cs",
+              "RelativeToolTip": "BT05\\.gitignore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:23:13.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

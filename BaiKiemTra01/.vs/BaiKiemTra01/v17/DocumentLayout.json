@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|d:\\d\\admin\\l\u1EADp tr\u00ECnh m\u1EA1ng\\baikiemtra01\\baikiemtra01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02DE85FA-12DE-4E4B-8BD8-5A9D99239724}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "BaiKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAAAMUBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-10T07:42:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:02:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:15:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:15:26.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:30:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:34:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:11:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Program.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Program.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:13:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:29:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "BaiKiemTra01\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AgIAAC0DAAAAAAAAAIAwwEYDAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T06:23:32.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:41:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:34:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\D\\admin\\L\u1EADp tr\u00ECnh m\u1EA1ng\\BaiKiemTra01\\BaiKiemTra01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:30:28.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9tCG3GCAYu0=",
+  "success": true,
+  "projectFilePath": "D:\\D\\admin\\Lập trình mạng\\BT04\\BT04\\BT04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamvu\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tamvu\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\tamvu\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\tamvu\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

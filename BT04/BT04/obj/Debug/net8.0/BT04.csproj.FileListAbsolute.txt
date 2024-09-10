@@ -1,0 +1,7 @@
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.AssemblyInfoInputs.cache
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.AssemblyInfo.cs
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.csproj.CoreCompileInputs.cache
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.MvcApplicationPartsAssemblyInfo.cache
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.RazorAssemblyInfo.cache
+D:\D\admin\Lập trình mạng\BT04\BT04\obj\Debug\net8.0\BT04.RazorAssemblyInfo.cs

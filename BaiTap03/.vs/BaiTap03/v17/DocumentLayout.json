@@ -50,8 +50,7 @@
               "RelativeToolTip": "BaiTap03\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAuwDUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T09:15:49.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:15:49.555Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "BaiTap03\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:14:11.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:14:11.003Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "BaiTap03\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\tamvu\\Documents\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\wwwroot\\css\\site.css",
               "RelativeToolTip": "BaiTap03\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-08-27T09:13:28.135Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "BaiTap03\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:11:07.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:11:07.944Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "BaiTap03\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T09:08:42.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:08:42.803Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "BaiTap03\\Views\\Nhom\\Index.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T09:08:00.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:08:00.573Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "BaiTap03\\Controllers\\NhomController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:07:37.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T09:07:37.061Z"
             }
           ]
         }
