@@ -1,0 +1,25 @@
+﻿@model IEnumerable<SanPham>
+ <div class="container">
+     <table class="table">
+
+        <tbody>
+            @foreach (var item in @Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td><img width="50%" src="@item.ImageUrl"/></td>
+                    <td>@item.TheLoai.Name</td>
+                    <td>
+                        <a asp-action="Upsert" asp-route-id="@item.Id">Edit</a>
+                        <a href="#">Detail</a> |
+                        <a href="#">Delete</a> |
+                        
+                    </td>
+                    
+                </tr>
+            }
+        </tbody>
+     </table>
+     <a asp-controller="SanPham" asp-action="Upsert" class="btn btn-primary">Thêm mới</a>
+ </div>

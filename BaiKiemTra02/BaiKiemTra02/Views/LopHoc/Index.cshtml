@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Danh sách lớp học";
+}
+
+<div class="container">
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên lớp học</th>
+                <th>Năm nhập học</th>
+                <th>Năm ra trường</th>
+                <th>Số lượng sinh viên</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.LopHoc)
+            {
+                <tr>
+                    <td>@item.TenLopHoc</td>
+                    <td>@item.NamNhapHoc</td>
+                    <td>@item.NamRaTruong</td>
+                    <td>@item.SoLuongSinhVien</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                        <a asp-action="Detail" asp-route-id="@item.Id">Chi tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="LopHoc" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>
