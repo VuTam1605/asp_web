@@ -1,0 +1,33 @@
+﻿@model Sach
+
+<div class="container">
+    <h3>Thêm sách</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="TieuDeSach">Tiêu đề sách</label>
+            <input asp-for="TieuDeSach" type="text" class="form-control" />
+            <span asp-validation-for="TieuDeSach" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NamXuatBan">Năm xuất bản</label>
+            <input asp-for="NamXuatBan" type="number" class="form-control" min="1900" max="2100" />
+            <span asp-validation-for="NamXuatBan" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MaTacGia">Tác giả</label>
+            <select asp-for="MaTacGia" class="form-control" asp-items="ViewBag.TacGiaList"></select>
+            <span asp-validation-for="MaTacGia" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TheLoai">Thể loại</label>
+            <input asp-for="TheLoai" type="text" class="form-control" />
+            <span asp-validation-for="TheLoai" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
+    </form>
+</div>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}

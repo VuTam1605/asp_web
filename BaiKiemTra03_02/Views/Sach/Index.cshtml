@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Danh sách sách";
+}
+
+<div class="container">
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tiêu đề sách</th>
+                <th>Năm xuất bản</th>
+                <th>Mã tác giả</th>
+                <th>Thể loại</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Sach)
+            {
+                <tr>
+                    <td>@item.TieuDeSach</td>
+                    <td>@item.NamXuatBan</td>
+                    <td>@item.MaTacGia</td>
+                    <td>@item.TheLoai</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaSach">Sửa</a> |
+                        <a asp-action="Detail" asp-route-id="@item.MaSach">Chi tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MaSach">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Sach" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>

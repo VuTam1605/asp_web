@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Danh sách tác giả";
+}
+
+<div class="container">
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên tác giả</th>
+                <th>Quốc tịch</th>
+                <th>Năm sinh</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.TacGia)
+            {
+                <tr>
+                    <td>@item.TenTacGia</td>
+                    <td>@item.QuocTich</td>
+                    <td>@item.NamSinh</td> <!-- Hiển thị năm sinh như một số nguyên -->
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaTacGia">Sửa</a> |
+                        <a asp-action="Detail" asp-route-id="@item.MaTacGia">Chi tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MaTacGia">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="TacGia" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>
